@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#menu {
+    margin-top: 20px;
+}
+
+#food-items {
+    list-style-type: none;
+    padding: 0;
+}
+/* .qrcode{
+height: 500px;
+width: 133px;
+margin-right: -1000px;
+} */
+#food-items li {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#food-items li:hover {
+    background-color: #e0e0e0;
+}
+#food-list {
+    display: none;
+    height: 3000px;
+    width: 1033px;
+    margin-right: 1000px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    margin: 20px 0;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
